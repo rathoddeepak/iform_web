@@ -1,0 +1,39 @@
+<svg width="137px" height="137px" viewBox="0 0 137 137" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-ifkhll93ge-1">
+            <stop stop-color="#484848" offset="0%"></stop>
+            <stop stop-color="#323232" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="250.954352%" id="linearGradient-ifkhll93ge-2">
+            <stop stop-color="#000000" offset="0%"></stop>
+            <stop stop-color="#242424" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="124.181913%" id="linearGradient-ifkhll93ge-3">
+            <stop stop-color="#000000" offset="0%"></stop>
+            <stop stop-color="#242424" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-ifkhll93ge-4">
+            <stop stop-color="#000000" offset="0%"></stop>
+            <stop stop-color="#242424" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="-152.249161%" x2="50%" y2="100%" id="linearGradient-ifkhll93ge-5">
+            <stop stop-color="#000000" offset="0%"></stop>
+            <stop stop-color="#242424" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Form-Assignment" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-651.000000, -296.000000)">
+            <g id="Group-6" transform="translate(498.000000, 296.000000)">
+                <g id="Group-5" transform="translate(153.000000, 0.000000)">
+                    <rect id="Rectangle" fill="url(#linearGradient-ifkhll93ge-1)" x="0" y="0" width="137" height="137" rx="19"></rect>
+                    <g id="Group-4" transform="translate(17.000000, 25.000000)">
+                        <rect id="Rectangle" fill="url(#linearGradient-ifkhll93ge-2)" x="0" y="0" width="103.246377" height="12.9380531" rx="5"></rect>
+                        <rect id="Rectangle" fill="url(#linearGradient-ifkhll93ge-3)" x="0" y="24.3539823" width="103.246377" height="12.9380531" rx="5"></rect>
+                        <rect id="Rectangle" fill="url(#linearGradient-ifkhll93ge-4)" x="0.753623188" y="48.7079646" width="103.246377" height="12.9380531" rx="5"></rect>
+                        <rect id="Rectangle" fill="url(#linearGradient-ifkhll93ge-5)" x="0.753623188" y="73.0619469" width="68.5797101" height="12.9380531" rx="5"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -19,9 +19,6 @@ Step 2: Start developmet server with `npm run start`
  themes -> files related to color and font
  utils -> utility files like constants and helper functions
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
 ### Key features
 
  - Login support

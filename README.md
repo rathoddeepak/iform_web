@@ -1,6 +1,6 @@
 # iForm | React Web App | react-native-web
 
-Demo: [Watch Video]((https://youtu.be/TsRTjGAMUrM))
+Demo: [Watch Video](https://youtu.be/TsRTjGAMUrM)
 
 ## Steps to run project
 
